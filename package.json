@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Daiver500/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "sloc": "^0.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
